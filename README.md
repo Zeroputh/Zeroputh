@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning statistics,ML
 - 💞️ I’m looking to collaborate on data driven predictive maintenance 
 - 📫 How to reach me ...
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Maintanace engineer
 
 <!---
